@@ -109,7 +109,7 @@
 	}
 </script>
 
-<div class="flex-1 flex flex-col justify-center items-center gap-4">
+<div class="flex-1 flex flex-col items-center gap-4">
 	<h1
 		class="font-mono text-4xl bg-gradient-to-r from-[#DC1FFF] via-[#03E1FF] to-[#00FFA3] inline-block text-transparent bg-clip-text"
 	>
